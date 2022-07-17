@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saiIluru
+- 👋 Hi, I’m @Sai Iluru
 - 👀 I’m interested in Artificial intelligance, Space and Physics
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on coding through linux and python
