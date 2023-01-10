@@ -10,8 +10,9 @@ You can click the Preview link to take a look at your changes.
 --->
 **About ME**
   1. Born at Hyderabad, India
-  2. Living in Hyderabad
-  3. Education Undergrad from VNR vignana jyothi institute of technology
+  2. Living in Maryland
+  3. Education Undergraduate from VNR vignana jyothi institute of technology
+  4. Pursuing Masters from University of Maryland and Baltimore County.
  
  **Professional stuff**
  Worked as AWS DevOps Engineer at TCS.
