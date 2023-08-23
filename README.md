@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sai Iluru
-- 👀 I’m interested in Artificial intelligance, Space and Physics
+- 👀 I’m interested in Artificial intelligence, Space, and Physics
 - 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on coding through linux and python
+- 💞️ I’m looking to collaborate on coding through Linux and Python
 - 📫 How to reach me ilurusheshasai@gmail.com
 
 <!---
@@ -9,21 +9,20 @@ Ilurusheshasai/Ilurusheshasai is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 **About ME**
-  1. Born at Hyderabad, India
+  1. Born in Hyderabad, India
   2. Living in Maryland
-  3. Education Undergraduate from VNR vignana jyothi institute of technology
-  4. Pursuing Masters from University of Maryland and Baltimore County.
+  3. Education Undergraduate from VNR Vignana Jyothi Institute of Technology
+  4. Pursuing a Master's from the University of Maryland and Baltimore County.
  
  **Professional stuff**
  Worked as AWS DevOps Engineer at TCS.
- Has experience of 1.5 years in AWS, Terraform, Linux, Jenkins.
- Good hands on experience in Linux, HTML, Pyhton.
+ Has experience of 1.5 years in AWS, Terraform, Linux, and Jenkins.
+ Good hands-on experience in Linux, HTML, and Python.
  
  **My interests**
- Would like to work on Artificial intelligance
- Become a master in python and participate in coding competitions
- My own best AI project
- Chill, Play games live life.
+ Would like to work onArtificial intelligence
+ Become a master in Python programming and participate in coding competitions
+ Chill, Play games, live life.
  
  
   
