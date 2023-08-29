@@ -1,11 +1,11 @@
 -------------------     ----------------------------
 <img src="path/to/your/headshot/image.jpg" alt="Headshot" width="200">     Name: Kanaparthi J S Karthik 
-        Address: Baltimore, MD, United States 
-        Email: FO62975@umbc.edu 
-        Phone: 469-922-4074 
-        LinkedIn: https://www.linkedin.com/in/kanaparthi-j-s-karthik-09b244148/
+                                                                        Address: Baltimore, MD, United States 
+                                                                        Email: FO62975@umbc.edu 
+                                                                        Phone: 469-922-4074 
+                                                                        LinkedIn: https://www.linkedin.com/in/kanaparthi-j-s-karthik-09b244148/
 -------------------     ----------------------------
-# PROFILE SUMMARY
+## PROFILE SUMMARY
 Experienced Lead Engineer and System Engineer. Expert in utilizing a diverse range of packages and demonstrating a solid aptitude for collaborating with cross-functional teams. Proficient in developing solutions prioritizing the end goal.
 
 ## PROFESSIONAL EXPERIENCE
