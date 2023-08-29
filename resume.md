@@ -1,17 +1,14 @@
-# Your Resume
-# Two Divs Side by Side
-
 <div style="display: flex;">
   <div style="flex: 1; background-color: #f0f0f0; padding: 10px;">
     <img src="path/to/your/headshot/image.jpg" alt="Headshot" width="200">
   </div>
   <div style="flex: 1; background-color: #ebebeb; padding: 10px;">
-       # Personal Details
-    **Name:** Kanaparthi J S Karthik
-     **Address:** Baltimore, MD, United States
-     **Email:** FO62975@umbc.edu
-     **Phone:** 469-922-4074
-     **LinkedIn:** https://www.linkedin.com/in/kanaparthi-j-s-karthik-09b244148/
+    # Personal Details
+    Name: Kanaparthi J S Karthik
+    Address: Baltimore, MD, United States
+    Email: FO62975@umbc.edu
+    Phone: 469-922-4074
+    LinkedIn: https://www.linkedin.com/in/kanaparthi-j-s-karthik-09b244148/
   </div>
 </div>
 
