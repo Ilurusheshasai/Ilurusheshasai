@@ -1,15 +1,18 @@
+# Your Resume
 
 <div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 50%; padding: 10px;">
+  <div style="flex: 30%; padding: 10px;">
     <img src="path/to/your/headshot/image.jpg" alt="Headshot" width="200">
   </div>
-  <div style="flex: 50%; padding: 10px;">
-    Kanaparthi J S Karthik
-Baltimore, MD, United States FO62975@umbc.edu +1 469-922-4074
-https://www.linkedin.com/in/kanaparthi-j-s-karthik-09b244148/
+  <div style="flex: 70%; padding: 10px;">
+    ## Personal Details
+    - **Name:** Kanaparthi J S Karthik
+    - **Address:** Baltimore, MD, United States
+    - **Email:** FO62975@umbc.edu
+    - **Phone:** 469-922-4074
+    - **LinkedIn:** https://www.linkedin.com/in/kanaparthi-j-s-karthik-09b244148/
   </div>
 </div>
-
 
 # PROFILE SUMMARY
 Experienced Lead Engineer and System Engineer. Expert in utilizing a diverse range of packages and demonstrating a solid aptitude for collaborating with cross-functional teams. Proficient in developing solutions prioritizing the end goal.
