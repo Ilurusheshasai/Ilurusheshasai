@@ -3,11 +3,11 @@
     <img src="path/to/your/headshot/image.jpg" alt="Headshot" width="200">
   </div>
   <div style="flex: 1; background-color: #ebebeb; padding: 10px;">
-    # Personal Details
-    Name: Kanaparthi J S Karthik
-    Address: Baltimore, MD, United States
-    Email: FO62975@umbc.edu
-    Phone: 469-922-4074
+ **# Personal Details**
+    Name: Kanaparthi J S Karthik <br>
+    Address: Baltimore, MD, United States <br>
+    Email: FO62975@umbc.edu <br>
+    Phone: 469-922-4074 <br>
     LinkedIn: https://www.linkedin.com/in/kanaparthi-j-s-karthik-09b244148/
   </div>
 </div>
