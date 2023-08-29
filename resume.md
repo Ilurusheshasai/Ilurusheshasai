@@ -1,5 +1,14 @@
 # Your Resume
+# Two Divs Side by Side
 
+<div style="display: flex;">
+  <div style="flex: 1; background-color: #f0f0f0; padding: 10px;">
+    Content of the left div.
+  </div>
+  <div style="flex: 1; background-color: #e0e0e0; padding: 10px;">
+    Content of the right div.
+  </div>
+</div>
     <img src="path/to/your/headshot/image.jpg" alt="Headshot" width="200">
     ## Personal Details
     - **Name:** Kanaparthi J S Karthik
