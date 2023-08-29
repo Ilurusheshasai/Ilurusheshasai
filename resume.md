@@ -1,3 +1,20 @@
+# Two-Column Layout
+
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 50%; padding: 10px;">
+    ## Column 1
+    <img src="path/to/your/headshot/image.jpg" alt="Headshot" width="200">
+  </div>
+  <div style="flex: 50%; padding: 10px;">
+    ## Column 2
+    Kanaparthi J S Karthik
+Baltimore,MD,United States FO62975@umbc.edu +1 469-922-4074
+https://www.linkedin.com/in/kanaparthi-j-s-karthik-09b244148/
+
+  </div>
+</div>
+
+
 # PROFILE SUMMARY
 Experienced Lead Engineer and System Engineer. Expert in utilizing a diverse range of packages and demonstrating a solid aptitude for collaborating with cross-functional teams. Proficient in developing solutions prioritizing the end goal.
 
@@ -42,4 +59,4 @@ Grade: 3.7/4
 #### Bachelor of Technology - 09/2014 – 05/2018
 Grade: 3.7/4
 
-<img src="path/to/your/headshot/image.jpg" alt="Headshot" width="200">
+
