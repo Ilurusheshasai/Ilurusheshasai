@@ -7,9 +7,13 @@
   <div style="flex: 70%; padding: 10px;">
     ## Personal Details
     - **Name:** Kanaparthi J S Karthik
+    
     - **Address:** Baltimore, MD, United States
+    
     - **Email:** FO62975@umbc.edu
+    
     - **Phone:** 469-922-4074
+    
     - **LinkedIn:** https://www.linkedin.com/in/kanaparthi-j-s-karthik-09b244148/
   </div>
 </div>
