@@ -1,5 +1,5 @@
 <div style="display: flex;">
-  <div style="flex: 1; background-color: #f0f0f0; padding: 10px;">
+  <div style="flex: 1; background-color: #ebebeb; padding: 10px;">
     <img src="path/to/your/headshot/image.jpg" alt="Headshot" width="200">
   </div>
   <div style="flex: 1; background-color: #ebebeb; padding: 10px;">
