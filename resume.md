@@ -1,16 +1,12 @@
-# Two-Column Layout
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 50%; padding: 10px;">
-    ## Column 1
     <img src="path/to/your/headshot/image.jpg" alt="Headshot" width="200">
   </div>
   <div style="flex: 50%; padding: 10px;">
-    ## Column 2
     Kanaparthi J S Karthik
-Baltimore,MD,United States FO62975@umbc.edu +1 469-922-4074
+Baltimore, MD, United States FO62975@umbc.edu +1 469-922-4074
 https://www.linkedin.com/in/kanaparthi-j-s-karthik-09b244148/
-
   </div>
 </div>
 
