@@ -1,5 +1,6 @@
 -------------------     ----------------------------
 <img src="path/to/your/headshot/image.jpg" alt="Headshot" width="200"> 
+![Headshot](image.jpg)
                                                                            ```
 {"Name": "Kanaparthi J S Karthik"
                                                                            "Address": "Baltimore, MD, United States" 
