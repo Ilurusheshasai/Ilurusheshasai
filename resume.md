@@ -3,19 +3,17 @@
 
 <div style="display: flex;">
   <div style="flex: 1; background-color: #f0f0f0; padding: 10px;">
-    Content of the left div.
+    <img src="path/to/your/headshot/image.jpg" alt="Headshot" width="200">
   </div>
-  <div style="flex: 1; background-color: #e0e0e0; padding: 10px;">
-    Content of the right div.
+  <div style="flex: 1; background-color: #ebebeb; padding: 10px;">
+       # Personal Details
+    **Name:** Kanaparthi J S Karthik
+     **Address:** Baltimore, MD, United States
+     **Email:** FO62975@umbc.edu
+     **Phone:** 469-922-4074
+     **LinkedIn:** https://www.linkedin.com/in/kanaparthi-j-s-karthik-09b244148/
   </div>
 </div>
-    <img src="path/to/your/headshot/image.jpg" alt="Headshot" width="200">
-    ## Personal Details
-    - **Name:** Kanaparthi J S Karthik
-    - **Address:** Baltimore, MD, United States
-    - **Email:** FO62975@umbc.edu
-    - **Phone:** 469-922-4074
-    - **LinkedIn:** https://www.linkedin.com/in/kanaparthi-j-s-karthik-09b244148/
 
 # PROFILE SUMMARY
 Experienced Lead Engineer and System Engineer. Expert in utilizing a diverse range of packages and demonstrating a solid aptitude for collaborating with cross-functional teams. Proficient in developing solutions prioritizing the end goal.
