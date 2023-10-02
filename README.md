@@ -20,8 +20,8 @@ You can click the Preview link to take a look at your changes.
  Good hands-on experience in Linux, HTML, and Python.
  
  **My interests**
- Would like to work onArtificial intelligence
- Become a master in Python programming and participate in coding competitions
+ Would like to work on artificial intelligence
+ Become a expert in Python programming and participate in coding competitions
  Chill, Play games, live life.
  
  
