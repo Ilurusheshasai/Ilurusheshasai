@@ -21,8 +21,7 @@ You can click the Preview link to take a look at your changes.
  
  **My interests**
  Would like to work on artificial intelligence
- Become a expert in Python programming and participate in coding competitions
- Chill, Play games, live life.
+ Become an expert in Python programming and participate in coding competitions, Play games, and live life.
  
  
   
