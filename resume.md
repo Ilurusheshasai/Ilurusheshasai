@@ -1,4 +1,4 @@
-**"Name"**: "Sai Iluru"
+**"Name"**: "Sai Iluru" <br>
 **"Address"**: "Baltimore, MD, United States" 
 **"Email"**: "fv49610@umbc.edu" 
 **"Phone"**: "667-351-7662" 
