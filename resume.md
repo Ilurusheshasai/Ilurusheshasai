@@ -10,7 +10,7 @@ Experienced System Engineer. Expert in utilizing diverse packages and demonstrat
 
 ## PROFESSIONAL EXPERIENCE
 ### Tata Consultancy Services, Hyderabad, India
-#### AWS DevOps Engineer - 09/2018 – 04/2022
+#### AWS DevOps Engineer                                              02/2021 – 07/2022
 - Deployed infrastructure on AWS cloud using Terraform (Infrastructure-as-Code) and Jenkins (CI/CD) to solve client requirements for computing power with the help of EMR and EC2. Experience with AWS services like cloudwatch, S3, Lambda, RDS, and cloudtrail.
 - Built a code to prevent duplicate infrastructure builds which substantially impacted this business by saving thousands of dollars for the client and eliminating user complaints by 100%.
 - Developed a website and monitored scripts using Linux and Python3. Launched it in the cloud to monitor infrastructure deployments and notify the DevOps in case of failure.
@@ -35,7 +35,8 @@ Grade: 3.957/4
 #### Bachelor of Technology, Electrical and Electronics Engineering- 08/2016 – 09/2020
 Grade: 3.8/4
 
-##PROJECTS
+## PROJECTS
+
 **Graduate Academic projects**:
 - Developed a deep learning model that can classify images in the ImageNet dataset with an accuracy of 98% using the Inception v3 model. Also, created a novel model to understand the in-depth working of these models.
 - Worked on student data to analyze students' performance, login patterns, and study behavior.
@@ -50,5 +51,3 @@ Grade: 3.8/4
 - Designed a ticket booking website as part of a competitive challenge as asked by the recruiter to book tickets.
 - Accident detection system for 2-wheeler vehicles: Designed a system that can accurately predict accidents and send an SOS message to the nearest police station using ESP 8266 module and Arduino.
 - Proposed a solution to address monitoring public transport using signal transmitters and receivers.
-
-
