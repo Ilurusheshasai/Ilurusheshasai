@@ -1,14 +1,10 @@
--------------------     ----------------------------
-                                                                          ```
+
 {"Name": "Sai Iluru"
                                                                            "Address": "Baltimore, MD, United States" 
                                                                            "Email": "fv49610@umbc.edu" 
                                                                            "Phone": "667-351-7662" 
                                                                            "LinkedIn": "https://www.linkedin.com/in/shesha-sai-iluru/"
 }
-```
-                                                                           
--------------------     ----------------------------
 ## PROFILE SUMMARY
 Experienced System Engineer. Expert in utilizing diverse packages and demonstrating a solid aptitude for collaborating with cross-functional teams. Proficient in developing solutions prioritizing the end goal.
 
