@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sai Iluru
 - 👀 I’m interested in Artificial intelligence, Space, and Physics
 - 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on coding through Linux and Python
+-  I’m looking to collaborate on coding through Linux and Python
 - 📫 How to reach me ilurusheshasai@gmail.com
 
 <!---
