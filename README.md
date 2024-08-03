@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial intelligence, Space, and Physics
 - 🌱 I’m currently learning Python 
 -  I’m looking to collaborate on coding through Linux and Python
-- 📫 How to reach me ilurusheshasai@gmail.com
+- 📫 How to reach me venkati1@umbc.edu; ilurusheshasai@gmail.com
 
 <!---
 Ilurusheshasai/Ilurusheshasai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
