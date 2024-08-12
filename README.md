@@ -21,15 +21,16 @@ You can click the Preview link to take a look at your changes.
  
  **My interests**
  Would like to work on artificial intelligence
- Become an expert in Python programing and participate in coding competitions.
+ Become an expert in Python programming and participate in coding competitions.
  See lots of amazing places on earth and show them to the people close to me.
 
  **Noticeable work**
  Trained an open-source LLM to detect SQL Injection to leverage LLM pattern identification capabilities and proved why this is effective instead of using simple ML algorithms.
- GitHub Link: https://github.com/Ilurusheshasai/sql-injection-detection-using-bert
+ 
+ - GitHub Link: https://github.com/Ilurusheshasai/sql-injection-detection-using-bert
 
  Developed a model that can act as a simple search engine on a local database and can summarize and answer questions from the files.
  In this context, I used a folder with some stories and created a chatbot that can summarize and answer questions on stories to make them interesting. It was a long process and I have achieved improvement step by step.
  
- Stage 1: https://github.com/Ilurusheshasai/multiple-LLM-chatbot
- Stage 2: https://github.com/Ilurusheshasai/Chatbot-llamaIndex-gemini-RAG
+ - Stage 1: https://github.com/Ilurusheshasai/multiple-LLM-chatbot
+ - Stage 2: https://github.com/Ilurusheshasai/Chatbot-llamaIndex-gemini-RAG
