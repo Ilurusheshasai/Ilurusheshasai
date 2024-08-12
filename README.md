@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
  Become an expert in Python programming and participate in coding competitions.
  See lots of amazing places on earth and show them to the people close to me.
 
- **Noticeable work**
+ **Noticeable work**/n
  Trained an open-source LLM to detect SQL Injection to leverage LLM pattern identification capabilities and proved why this is effective instead of using simple ML algorithms.
  
  - GitHub Link: https://github.com/Ilurusheshasai/sql-injection-detection-using-bert
