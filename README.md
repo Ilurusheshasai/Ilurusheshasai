@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sai Iluru
 - 👀 I’m interested in Artificial intelligence and space.
-- 🌱 I can code in Python, C, and Javascript.
+- 🌱 I can code in Python, C, Linux, and Javascript.
 -  I’m looking to collaborate on work on machine learning and neural network models.
 - 📫 How to reach me venkati1@umbc.edu; ilurusheshasai@gmail.com
 
