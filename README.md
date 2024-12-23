@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sai Iluru
 - 👀 I’m interested in Artificial intelligence and space.
-- 🌱 I can code in Python, C, Linux, and Javascript.
+- 🌱 I can code in Go, Python, C, Linux, and Javascript.
 -  I’m looking to collaborate on work on machine learning and neural network models.
 - 📫 How to reach me saiiluru24@gmail.com, ilurusheshasai@gmail.com
 
@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
  
  **My interests**
  Would like to work on artificial intelligence
- Become an expert in Python programming and participate in coding competitions.
+ I want to think freely and creatively as possible try to tap ideas that are never been worked on, become a programmer who can code the idea into reality, and participate in coding competitions.
  See lots of amazing places on earth and show them to the people close to me.
 
  **Noticeable work**  
