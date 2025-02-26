@@ -5,7 +5,6 @@ You can click the Preview link to take a look at your changes.
 
 # Sai Iluru  
 - **Email:** saiiluru24@gmail.com
-- **Phone:** 667-351-7662  
 - **[LinkedIn](https://www.linkedin.com/in/shesha-sai-iluru/)**
 - **[Google Skill Boost](https://www.cloudskillsboost.google/public_profiles/45cb7f67-9b30-4155-b6b1-ea88e5f15083)**
 
